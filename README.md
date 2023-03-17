@@ -1,5 +1,6 @@
 # 👋 Bonjour, je m'appelle Bryan !
 ## 🧑‍💻 À propos de moi
+![discord](https://img.shields.io/static/v1?label=Discord&message=Revelty%231715&color=7289da&style=flat)
 ![Étoiles](https://img.shields.io/github/stars/ReveltyOnGit?style=social)
 
 ![Statistiques de Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReveltyOnGit&layout=compact)
