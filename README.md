@@ -1,6 +1,7 @@
 # 👋 Bonjour, je m'appelle Bryan !
 ## 🧑‍💻 À propos de moi
 ![Étoiles](https://img.shields.io/github/stars/ReveltyOnGit?style=social)
+
 ![Statistiques de Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=ReveltyOnGit&layout=compact)
  - 🛠️ Développeur web, Java et SysAdmin. 
  - 📖 Étudiant à l'[École des Métiers de Fribourg](https://emf.ch).
